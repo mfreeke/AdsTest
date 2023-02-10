@@ -8,7 +8,7 @@ VAR
 END_VAR
 ]]></Declaration>
     <Implementation>
-      <ST><![CDATA[nIntToRead := nIntToRead + 2;]]></ST>
+      <ST><![CDATA[nIntToRead := nIntToRead + 1;]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>
